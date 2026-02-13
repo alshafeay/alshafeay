@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed Alshafeay 👋
+# Hi, I'm Ahmed Alshafeay 👋
 **AI Engineer | Computer Vision & Machine Learning Specialist**
 
 ---
